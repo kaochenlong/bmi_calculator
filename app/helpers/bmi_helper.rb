@@ -1,0 +1,2 @@
+module BmiHelper
+end
